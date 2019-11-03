@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: Zy's Addon
+## Author: Zy
+## Version: 0.1
+## SavedVariablesPerCharacter: ZyConfig
+
+Zy.lua
